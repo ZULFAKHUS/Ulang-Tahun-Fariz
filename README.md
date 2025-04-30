@@ -129,4 +129,3 @@ r: white;
     }, 5000);
   </script>
 </body>
-</html>
