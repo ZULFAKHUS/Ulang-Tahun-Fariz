@@ -61,16 +61,21 @@ r: white;
     </section>
 
 <section class="gallery">
-<img src="Fariz![Fariz (1)](https://github.com/user-attachments/assets/3b2db![Fariz (2)](https://github.com/user-attachments/assets![Fariz (4)](https://github.com/user-attachments/assets/6d5b1b4a-d497-4a15-a3a5-f7f65e19facf)
-/0![Fariz (3)](https://github.com/user-attachments/assets/bc0546e2-0d8e-4508-9780-ce71bffc220e)
-eb2b3f5-9b69-4abc-b156-96a1a502b75a)
-122-1e4d-4578-b412-6942520be6d6)
- (1).jpg" alt="Orang Aneh">
-    </section>
+
+  <img src="![Fariz (1)](https://github.com/user-attachments/assets/9754efa9-80b0-4026-a6b9-8eeb93f59a2f)
+
+  <img src="![Fariz (2)](https://github.com/user-attachments/assets/db87c5a6-495d-4fb9-863a-6b0f7ec3904e)
+
+  <img src="![Fariz (4)](https://github.com/user-attachments/assets/8cf3dc35-476c-4a89-bf54-86b5d6bcd683)
+  
+<img src="![Fariz (3)](https://github.com/user-attachments/assets/f339fa9b-36e4-410b-8f6b-d4df517b4013)
+
+  </section>
 
   <section style="text-align: center; padding: 2em;">
       <audio controls autoplay loop>
-        <source src="https://github.com/user-attachments/assets/e9efacfe-7d9e-4e88-a0d5-1f90093f1b8c Bergema Sampai Selamanya.mov" type="audio/mpeg">
+     
+<source src="https://github.com/user-attachments/assets/e9efacfe-7d9e-4e88-a0d5-1f90093f1b8c Bergema Sampai Selamanya.mov" type="mov/mpeg">
       </audio>
     </section>
   </main>
@@ -125,4 +130,3 @@ eb2b3f5-9b69-4abc-b156-96a1a502b75a)
   </script>
 </body>
 </html>
-riz
