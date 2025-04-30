@@ -60,12 +60,12 @@ r: white;
       <p>Selamat ulang tahun adik, makasih sudah menjadi tua semoga lekas sadar dan tetap sabar. Aku masih di sini, selalu di sini siap untuk mengolok - olok!!</p>
     </section>
 
-  <section class="gallery">
-!-- ![Fariz (4)](https://github.com/user-attachments/assets/b8bbde66-8cb4-4788-ae62-acb9d3db3de0)
-![Fariz (3)](https://github.com/user-attachments/assets/b58008a1-84bb-4475-b63d-7e15161bbb2d)
-![Fariz (2)](https://github.com/user-attachments/assets/a29650b3-3813-4d52-8f8c-4f3917035542)
-![Fariz (1)](https://github.com/user-attachments/assets/0d08cbff-15f4-4501-b4a0-04bae78d660a)
-Gambar dan video akan ditambahkan di sini -->
+<section class="gallery">
+<img src="Fariz![Fariz (1)](https://github.com/user-attachments/assets/3b2db![Fariz (2)](https://github.com/user-attachments/assets![Fariz (4)](https://github.com/user-attachments/assets/6d5b1b4a-d497-4a15-a3a5-f7f65e19facf)
+/0![Fariz (3)](https://github.com/user-attachments/assets/bc0546e2-0d8e-4508-9780-ce71bffc220e)
+eb2b3f5-9b69-4abc-b156-96a1a502b75a)
+122-1e4d-4578-b412-6942520be6d6)
+ (1).jpg" alt="Orang Aneh">
     </section>
 
   <section style="text-align: center; padding: 2em;">
