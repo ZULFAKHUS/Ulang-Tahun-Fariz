@@ -1,6 +1,3 @@
-# Ulang-[fariz.txt](https://github.com/user-attachments/files/19971965/fariz.txt)
-Tahun-Fa<!DOCTYPE html>
-<html lang="id">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -63,7 +60,7 @@ r: white;
       <p>Selamat ulang tahun adik, makasih sudah menjadi tua semoga lekas sadar dan tetap sabar. Aku masih di sini, selalu di sini siap untuk mengolok - olok!!</p>
     </section>
 
-    <section class="gallery">
+  <section class="gallery">
 !-- ![Fariz (4)](https://github.com/user-attachments/assets/b8bbde66-8cb4-4788-ae62-acb9d3db3de0)
 ![Fariz (3)](https://github.com/user-attachments/assets/b58008a1-84bb-4475-b63d-7e15161bbb2d)
 ![Fariz (2)](https://github.com/user-attachments/assets/a29650b3-3813-4d52-8f8c-4f3917035542)
